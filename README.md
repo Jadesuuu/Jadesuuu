@@ -10,7 +10,7 @@ Full-stack engineer in the Philippines. TypeScript end to end: React, Node, Next
 
 R&D engineer at Advanced World Solutions by day. After hours I build complete products of my own and put them in front of real users. I also build agent tooling on Claude Code, including my team's internal tooling.
 
-I write down what broke. The day job, Reel, JF & The World and ScoutBoard each have a case study on [jadebonifacio.dev](https://jadebonifacio.dev) covering what it does, what failed, and how I fixed it.
+I write down what broke. The day job, Budget, Reel, JF & The World and ScoutBoard each have a case study on [jadebonifacio.dev](https://jadebonifacio.dev) covering what it does, what failed, and how I fixed it.
 
 ## The day job
 
@@ -29,6 +29,12 @@ I write down what broke. The day job, Reel, JF & The World and ScoutBoard each h
 React · TypeScript · Go · WebRTC
 
 ## What I've built
+
+**[Budget](https://github.com/Jadesuuu/budget-app)** · [case study](https://jadebonifacio.dev/work/budget) · [demo](https://budgetdemo.jadebonifacio.dev)
+
+A budgeting app for the Philippines that reads the notifications banks already send: bank emails and texts become pending transactions, and a few taps a day keep the month accurate. Row-level security on every table, proven by pgTAP tests. The public demo runs the real Postgres migrations in-process with PGlite, with no backend.
+
+Next.js 16 · Supabase · Cloudflare Email Workers · PGlite
 
 **[Reel](https://github.com/Jadesuuu/Reel)** · [case study](https://jadebonifacio.dev/work/reel) · [demo](https://reel.jadebonifacio.dev)
 
